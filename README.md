@@ -50,11 +50,11 @@ The proposed framework was evaluated on the publicly available **ADHD-200** data
 
 ## Dataset
 
-- **ADHD-200** Multi-site rs-fMRI dataset: The data used in this study are publicly available from the ADHD-200 Preprocessed initiative (Athena pipeline): http://preprocessed-connectomes-project.org/adhd200/
+- **ADHD-200** Multi-site rs-fMRI dataset: The data used in this study are publicly available from the ADHD-200    Preprocessed initiative (Athena pipeline): http://preprocessed-connectomes-project.org/adhd200/
 
-Due to size constraints, the dataset files (.npy) 
-are hosted on Google Drive and can be accessed here : 
-[Download Dataset](https://drive.google.com/drive/folders/1ycOw3TS5qSSJPrFZuF3S4J2oUKSzKGO5?usp=sharing)
+- Due to size constraints, the dataset files (.npy) 
+  are hosted on Google Drive and can be accessed here : 
+  [Download Dataset](https://drive.google.com/drive/folders/1ycOw3TS5qSSJPrFZuF3S4J2oUKSzKGO5?usp=sharing)
 
 - You only need to change the paths of the `.npy` files in the notebook
 
